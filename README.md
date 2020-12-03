@@ -9,7 +9,7 @@ $ cd Puppeteer-Faker
 
 # Install dependencies
 
-$ npm run install 
+$ npm install 
 
 # Run the project
 $ node index.js
